@@ -35,7 +35,7 @@ Note: After install exit ssh if you using vps
    ```plaintext
    http://username:password@ip_address:port
 
-4. **If you want change level and dealy, edit the config.json file. Example:**
+4. **If you want change level and delay, edit the config.json file. Example:**
    ```plaintext
    Level: Easy, Normal, Hard
    {
