@@ -31,7 +31,15 @@ Note: After install exit ssh if you using vps
    ```plaintext
    http://username:password@ip_address:port
 
-4. **Run the script:**
+4. **If you want change level and dealy, edit the config.json file. Example:**
+   ```plaintext
+   Level: Easy, Normal, Hard
+   {
+    "level":"Easy",
+    "delay":10000
+   }
+
+6. **Run the script:**
    ```plaintext
    node main.js
 
