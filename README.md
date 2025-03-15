@@ -1,5 +1,7 @@
 # BOT VOLTIX AI
 
+![Fitur Voltix](voltix.png)
+
 **Fitur:**
 
 **• Auto Connect**
