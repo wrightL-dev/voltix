@@ -44,8 +44,15 @@ Note: After install exit ssh if you using vps
    }
 
 6. **Run the script:**
+
+   For VPS/RDP/Desktop:
    ```plaintext
    node main.js
+   ```
+   For userLand: 
+   ```plaintext
+   node main_arm64.js
+   ````
 
 ## Support
 
