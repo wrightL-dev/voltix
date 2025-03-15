@@ -16,31 +16,24 @@ Before running this project, make sure you have installed:
 
 ## Installation
 
-1. **Install nvm (Node Version Manager) first:**
+1. **Run the script:**
+   ```plaintext
+   bash install.sh
 
-1. **Clone this repository:**
+Note: After install exit ssh if you using vps
 
-    ```plaintext
-    git clone https://github.com/wrightL-dev/voltix/
-    cd voltix
-
-2. **Install the required packages:**
-
-    ```plaintext
-    npm install cycletls uuid https-proxy-agent
-
-3. **Add token in the token.txt file. Example:**
+2. **Add token in the token.txt file. Example:**
 
     ```plaintext
     eyxxxxxxxxxx
 
-4. **If you want to use a proxy, edit the proxy.txt file. Example:**
+3. **If you want to use a proxy, edit the proxy.txt file. Example:**
    ```plaintext
    http://username:password@ip_address:port
 
-5. **Run the script:**
+4. **Run the script:**
    ```plaintext
-   node voltix.js
+   node main.js
 
 ## Support
 
