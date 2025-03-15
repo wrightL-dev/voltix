@@ -39,20 +39,6 @@ sleep 2
 echo "✅ Using and setting Node.js v22.13.0 as default."
 sleep 2
 
-# Clone the Voltix repository if not exists
-if [ ! -d "voltix" ]; then
-    echo "📥 Cloning Voltix repository..."
-    sleep 2
-    git clone https://github.com/wrightL-dev/voltix.git
-else
-    echo "✅ Voltix repository already exists. Skipping clone."
-fi
-sleep 2
-
-# Navigate to the project directory
-cd voltix || exit
-sleep 2
-
 # Install required dependencies
 echo "📦 Installing dependencies..."
 sleep 2
