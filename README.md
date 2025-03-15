@@ -10,10 +10,13 @@
 
 Before running this project, make sure you have installed:
 
-- Node.js
+- Node.js v22.14.0
 - npm (Node Package Manager)
+- nvm (Node Version Manager)
 
 ## Installation
+
+1. **Install nvm (Node Version Manager) first:**
 
 1. **Clone this repository:**
 
