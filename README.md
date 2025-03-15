@@ -6,6 +6,8 @@
 
 **• Auto Connect**
 
+**• Custom Level**
+
 **• Supports Proxy w/o Proxy**
 
 ## Requirements
