@@ -45,9 +45,13 @@ Note: After install exit ssh if you using vps
 
 6. **Run the script:**
 
-   For VPS/RDP/Desktop:
+   For VPS/Linux System:
    ```plaintext
    node main.js
+   ```
+    For RDP/Windows System:
+   ```plaintext
+   node main_win64.js
    ```
    For userLand: 
    ```plaintext
