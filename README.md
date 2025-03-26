@@ -22,7 +22,7 @@ Before running this project, make sure you have installed:
 
 1. **Run the script:**
    ```plaintext
-   bash install.sh
+   bash setup.sh
 
 Note: After install exit ssh if you using vps
 
